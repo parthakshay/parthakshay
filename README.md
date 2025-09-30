@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Parth Akshay 👋  
 
 🚀 **Packaged App Development Analyst @ Accenture**  
