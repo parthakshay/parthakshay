@@ -7,7 +7,7 @@
 
 ## 🔹 About Me  
 - 💻 Currently working in **SAP BODS Data Migration** projects at Accenture  
-- 📱 Building **AIHCA (Ancient Indian History, Culture & Archaeology)** – an educational mobile app for students of Jiwaji University  
+- 📱 Building **AIHCA+ (Ancient Indian History, Culture & Archaeology)** – an educational mobile app for students of Jiwaji University  
 - 📊 Transitioning into **Data Analytics & Visualization** (SQL, Power BI, Python)  
 - 🏺 Passionate about **history, archaeology, and cultural heritage**  
 - 🎸 Hobbies: Guitar, Mandolin, Motorcycling, Sketching  
