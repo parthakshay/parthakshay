@@ -33,8 +33,6 @@ An educational mobile application focused on history and archaeology, featuring:
 - In-app PDF viewing and offline caching  
 - Google Sheets + Apps Script backend for scalable content delivery  
 
-🔒 **Currently in closed testing (starting Jan 03, 2026 – 10:00 AM IST)**
-
 ---
 
 ## 🌱 Currently Learning  
