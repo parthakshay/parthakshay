@@ -25,7 +25,7 @@
 
 ## 📌 Projects  
 
-### 📱 Āroham – Academic Learning App(Now live on Play Store)
+### 📱 Āroham – Academic Learning App(Now live on Play Store): https://play.google.com/store/apps/details?id=com.parth_akshay.aihca_ju
 An educational mobile application focused on history and archaeology, featuring:  
 - Interactive maps of archaeological sites  
 - Inscriptions, dynasties, timelines, coins and pottery  
