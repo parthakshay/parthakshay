@@ -5,8 +5,7 @@
 
 ---
 
-## 🔹 About Me  
-- 💻 Working on **SAP BODS Data Migration** projects at Accenture  
+## 🔹 About Me   
 - 📱 Building **Āroham** – an offline-first academic mobile app for **history & archaeology students**  
 - 🏛️ Developing structured digital learning tools for **Ancient Indian History, Culture & Archaeology**  
 - 📊 Actively transitioning into **Data Analytics & Visualization** (SQL, Power BI, Python)  
