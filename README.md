@@ -8,7 +8,7 @@ I am a Data Analyst with around 4 years of experience in data analysis, reportin
 
 ## 💼 Experience
 
-**Data Analyst**  
+**Packaged App Development Analyst (Data Analytics & Reporting)**  
 **Accenture** | Dec 2022 – Present
 
 - Analyze structured business data using SQL and Microsoft Excel.
