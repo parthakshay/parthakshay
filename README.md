@@ -2,7 +2,7 @@
 
 ## Data Analyst | Python | SQL | Power BI | ETL | Business Intelligence
 
-I am a Data Analyst with 3+ years of experience in data analysis, reporting, ETL, and business intelligence solutions. I enjoy transforming raw data into meaningful insights using SQL, Python, Power BI, and Excel while automating repetitive reporting tasks.
+I am a Data Analyst with over 3.5 years of experience in data analysis, reporting, ETL, and business intelligence solutions. I enjoy transforming raw data into meaningful insights using SQL, Python, Power BI, and Excel while automating repetitive reporting tasks.
 
 ---
 
@@ -94,23 +94,16 @@ An educational platform that manages structured academic data.
 
 ## 📜 Certifications
 
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-- SAFe® 6 Practitioner
+- 🏅 [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-in/ParthAkshayBarange-8785/EDF1E87D30AF4397?sharingId)
+- 🏅 [SAFe® 6 Practitioner (SP)](https://www.credly.com/badges/56a796f7-b9ae-4bae-ad77-c0e02ab021ed/linked_in_profile)
 
 ---
 
-## 📫 Connect
+## 📫 Connect with Me
 
-**LinkedIn**
-https://www.linkedin.com/in/parthakshaybarange/
-
-
-**GitHub**
-https://github.com/parthakshay
-
-
-**Email**
-parth.barange@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/parthakshaybarange](https://www.linkedin.com/in/parthakshaybarange/)
+- 🐙 **GitHub:** [github.com/parthakshay](https://github.com/parthakshay)
+- 📧 **Email:** <a href="mailto:parth.barange@gmail.com">parth.barange@gmail.com</a>
 
 ---
 
