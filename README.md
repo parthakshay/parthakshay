@@ -54,7 +54,7 @@ I am a Data Analyst with 3+ years of experience in data analysis, reporting, ETL
 
 ## 📊 Projects
 
-### 📈 Retail Sales Analytics Dashboard
+### 📈 Sales Data Analysis Dashboard
 **Python | SQL | Power BI**
 
 - Cleaned and transformed sales data using Python (Pandas).
@@ -63,12 +63,12 @@ I am a Data Analyst with 3+ years of experience in data analysis, reporting, ETL
 
 ---
 
-### 📊 Financial Performance Dashboard
+### 📊 Supply Chain Analytics Dashboard
 **SQL | Power BI | Excel**
 
-- Developed dashboards for revenue, expenses, and profit analysis.
-- Built KPI reports and business performance metrics.
-- Used SQL to prepare reporting datasets.
+- Analyzed inventory, orders, and supplier performance using SQL.
+- Created dashboards to track stock levels, order fulfillment, and delivery performance.
+- Generated KPI reports to support inventory and supply chain decisions.
 
 ---
 
