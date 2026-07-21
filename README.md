@@ -1,124 +1,127 @@
 # Hi there, I'm Parth Akshay 👋
 
-🚀 **Data Analyst | Python | SQL | Power BI | BI Reporting | ETL**
+## Data Analyst | Python | SQL | Power BI | ETL | Business Intelligence
+
+I am a Data Analyst with 3+ years of experience in data analysis, reporting, ETL, and business intelligence solutions. I enjoy transforming raw data into meaningful insights using SQL, Python, Power BI, and Excel while automating repetitive reporting tasks.
 
 ---
 
-## 🔹 About Me
+## 💼 Experience
 
-- 📊 Data Analyst with 3+ years of experience in data analysis, ETL, business reporting, and dashboard development at Accenture.
-- 🐍 Skilled in Python, SQL, Microsoft Excel, Power BI, DAX, and data visualization.
-- 📈 Experienced in data validation, data transformation, KPI reporting, and process automation.
-- 📱 Creator of **Āroham**, an educational platform available on Google Play Store.
-- 🎓 Master's in Ancient Indian History, Culture & Archaeology (Jiwaji University).
-- 🏛️ Passionate about archaeology, inscriptions, numismatics, and cultural heritage.
+**Data Analyst**  
+**Accenture** | Dec 2022 – Present
+
+- Analyze structured business data using SQL and Microsoft Excel.
+- Build reports and dashboards for business stakeholders.
+- Perform data validation, cleansing, and transformation.
+- Work with ETL processes and reporting automation.
+- Develop Power BI dashboards for KPI reporting.
+- Automate repetitive data processing tasks using Python.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Skills
 
-### Data Analytics
+### Programming
 - Python
 - SQL
-- Microsoft Excel
+
+### Data Analytics
 - Power BI
-- DAX
-- Power Query
+- Microsoft Excel
 - Pandas
 - NumPy
+- DAX
+- Power Query
+
+### Data Engineering
+- ETL
+- Data Validation
+- Data Cleansing
+- Data Transformation
 
 ### Databases
 - SQL Server
 - PostgreSQL
 - Firebase Firestore
 
-### Data Engineering & Automation
-- ETL
-- Data Validation
-- Data Transformation
-- Google Apps Script
-- REST APIs
-
-### Development
-- React Native (Expo)
-- JavaScript
+### Tools
 - Git
 - GitHub
+- Jupyter Notebook
 
-### Certifications
+---
+
+## 📊 Projects
+
+### 📈 Retail Sales Analytics Dashboard
+**Python | SQL | Power BI**
+
+- Cleaned and transformed sales data using Python (Pandas).
+- Performed SQL-based business analysis.
+- Built interactive Power BI dashboards with KPI reporting.
+
+---
+
+### 📊 Financial Performance Dashboard
+**SQL | Power BI | Excel**
+
+- Developed dashboards for revenue, expenses, and profit analysis.
+- Built KPI reports and business performance metrics.
+- Used SQL to prepare reporting datasets.
+
+---
+
+### 🤖 Automated Excel Reporting System
+**Python | Pandas | Excel**
+
+- Automated repetitive Excel reporting tasks.
+- Cleaned and merged multiple datasets.
+- Generated standardized reports using Python.
+
+---
+
+### 📱 Āroham – Educational Data Platform
+
+An educational platform that manages structured academic data.
+
+- Integrated Google Sheets, Firebase, and REST APIs.
+- Automated content synchronization using Google Apps Script.
+- Designed structured data workflows for educational content.
+- Implemented search, filtering, and categorized data management.
+
+---
+
+## 📜 Certifications
+
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 - SAFe® 6 Practitioner
 
 ---
 
-# 📌 Featured Project
-
-## 📱 Āroham – Educational Data Platform
-
-🔗 Play Store: https://play.google.com/store/apps/details?id=com.parth_akshay.aihca_ju
-
-🌐 Website: https://aroham.in
-
-An educational platform built for students of Ancient Indian History & Archaeology.
-
-### Key Features
-
-- Structured educational content management
-- Google Sheets + Firebase data integration
-- REST API-based data synchronization
-- Automated content updates using Google Apps Script
-- Interactive maps, quizzes, notes, previous papers, and study material
-- Search, filtering, and categorized data management
-
-**Tech Stack**
-
-React Native • Firebase • Google Sheets • Google Apps Script • REST APIs • JavaScript
-
----
-
-# 📊 Data Analytics Portfolio
-
-### Retail Sales Analytics Dashboard
-- Python (Pandas) data cleaning and transformation
-- SQL-based business analysis
-- Power BI dashboard development
-- KPI reporting and trend analysis
-
-### Automated Excel Reporting System
-- Python automation
-- Excel reporting
-- Data cleaning
-- Report generation
-
-### Financial Performance Dashboard
-- SQL reporting
-- Power BI dashboard
-- Revenue, Profit & KPI Analysis
-
----
-
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Advanced SQL
 - PostgreSQL
 - Data Modeling
-- Power BI Optimization
 - Python for Data Analytics
+- Power BI Optimization
 
 ---
 
-# 📫 Connect with Me
+## 📫 Connect
 
-💼 LinkedIn  
+**LinkedIn**
 https://www.linkedin.com/in/parthakshaybarange/
 
-🐙 GitHub  
+
+**GitHub**
 https://github.com/parthakshay
 
-📧 Email  
+
+**Email**
 parth.barange@gmail.com
 
 ---
 
-⭐ **"Aut viam inveniam aut faciam."**  
-*I will either find a way or make one.*
+> **"Without data, you're just another person with an opinion." – W. Edwards Deming**
