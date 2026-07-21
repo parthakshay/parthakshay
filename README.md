@@ -116,9 +116,9 @@ An educational platform that manages structured academic data.
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/parthakshaybarange](https://www.linkedin.com/in/parthakshaybarange/)
-- 🐙 **GitHub:** [github.com/parthakshay](https://github.com/parthakshay)
-- 📧 **Email:** <a href="mailto:parth.barange@gmail.com">parth.barange@gmail.com</a>
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/parthakshaybarange/)
+- 🐙 [**GitHub**](https://github.com/parthakshay)
+- 📧 <a href="mailto:parth.barange@gmail.com">**Email:**</a>
 
 ---
 
