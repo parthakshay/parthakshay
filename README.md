@@ -99,16 +99,6 @@ An educational platform that manages structured academic data.
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced SQL
-- PostgreSQL
-- Data Modeling
-- Python for Data Analytics
-- Power BI Optimization
-
----
-
 ## 📫 Connect
 
 **LinkedIn**
