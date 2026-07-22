@@ -97,6 +97,8 @@ I am a Data Analyst with around 4 years of experience in data analysis, reportin
 
 ### 📱 [Āroham – Educational Data Platform](https://play.google.com/store/apps/details?id=com.parth_akshay.aihca_ju&hl=en_IN)
 
+[![Website](https://img.shields.io/badge/Website-aroham.in-blue?style=for-the-badge)](https://aroham.in)
+
 An educational platform that manages structured academic data.
 
 - Integrated Google Sheets, Firebase, and REST APIs.
