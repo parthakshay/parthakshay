@@ -68,7 +68,7 @@ I am a Data Analyst with around 4 years of experience in data analysis, reportin
 
 ## 📊 Projects
 
-### 📈 Sales Data Analysis Dashboard
+### 📈 [Sales Data Analysis Dashboard](https://github.com/parthakshay/sales-data-analysis-dashboard)
 **Python | SQL | Power BI**
 
 - Cleaned and transformed sales data using Python (Pandas).
@@ -77,7 +77,7 @@ I am a Data Analyst with around 4 years of experience in data analysis, reportin
 
 ---
 
-### 📊 Supply Chain Analytics Dashboard
+### 📊 [Supply Chain Analytics Dashboard](https://github.com/parthakshay/supply-chain-analytics-dashboard)
 **SQL | Power BI | Excel**
 
 - Analyzed inventory, orders, and supplier performance using SQL.
@@ -86,7 +86,7 @@ I am a Data Analyst with around 4 years of experience in data analysis, reportin
 
 ---
 
-### 🤖 Automated Excel Reporting System
+### 🤖 [Automated Excel Reporting System](https://github.com/parthakshay/excel-reporting-automation)
 **Python | Pandas | Excel**
 
 - Automated repetitive Excel reporting tasks.
@@ -95,7 +95,7 @@ I am a Data Analyst with around 4 years of experience in data analysis, reportin
 
 ---
 
-### 📱 Āroham – Educational Data Platform
+### 📱 [Āroham – Educational Data Platform](https://play.google.com/store/apps/details?id=com.parth_akshay.aihca_ju&hl=en_IN)
 
 An educational platform that manages structured academic data.
 
