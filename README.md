@@ -99,6 +99,7 @@ Built an educational platform to manage and organize academic content.
 
 ## 📫 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/parthakshaybarange/)
-- 🐙 [GitHub](https://github.com/parthakshay)
-- 📧 [Email](mailto:parth.barange@gmail.com)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/parthakshaybarange/)
+- 🐙 [**GitHub**](https://github.com/parthakshay)
+- 📧 [**Email**](mailto:parth.barange@gmail.com)
+- [**LeetCode**](https://leetcode.com/u/parth_akshay/)
