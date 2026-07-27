@@ -1,110 +1,91 @@
-# Hi there, I'm Parth Akshay 👋
+# Hi, I'm Parth Akshay Barange 👋
 
-## Data Analyst | Python | SQL | Power BI | ETL | Business Intelligence
+## Data Analyst | SQL | Python | Power BI | Tableau | Reporting Automation
 
-I am a Data Analyst with around 4 years of experience in data analysis, reporting, ETL, and business intelligence solutions. I enjoy transforming raw data into meaningful insights using SQL, Python, Power BI, and Excel while automating repetitive reporting tasks.
+Data Analyst with 3+ years of experience using SQL, Python, Power BI, Tableau, and Excel to clean data, build dashboards, automate reports, and find reporting issues. Analyze large datasets, validate results, and deliver clear reports that help teams track KPIs and make decisions.
 
 ---
 
 ## 💼 Experience
 
-**Packaged App Development Analyst (Data Analytics & Reporting)**  
-**Accenture** | Dec 2022 – Present
+### Packaged App Development Analyst - Data Analytics & Reporting  
+**Accenture** | Bengaluru, India | Mar 2025 - Present
 
-- Analyze structured business data using SQL and Microsoft Excel.
-- Build reports and dashboards for business stakeholders.
-- Perform data validation, cleansing, and transformation.
-- Work with ETL processes and reporting automation.
-- Develop Power BI dashboards for KPI reporting.
-- Automate repetitive data processing tasks using Python.
+### Packaged App Development Associate - Data Analytics & Reporting  
+**Accenture** | Bengaluru, India | Dec 2022 - Feb 2025
 
-**Data Analyst**  
-**XRG Consulting Pvt Ltd** | Jul 2022 – Sep 2022
-- Developed and maintained software components supporting business operations.
-- Retrieved, analyzed, and validated structured data using SQL and Microsoft Excel.
-- Performed data cleansing, reconciliation, and reporting to improve data quality.
-- Collaborated with cross-functional teams to troubleshoot data issues and support business reporting.
+- Created 5-6 weekly Power BI and Excel reports to track KPIs and flag reporting issues.
+- Wrote SQL queries to validate, reconcile, and analyze 180K-240K records daily across 3-4 Excel datasets before publishing reports.
+- Automated data validation, transformation, and report generation with Python, saving approximately 4 hours per week.
+- Cleaned and combined data from multiple sources to fix data-quality issues and improve report accuracy.
+- Analyzed A/B tests for email campaigns with product and marketing teams, increasing click-through rate by 12%.
+- Worked with QA and business teams to investigate issues, test fixes, and document changes during Agile sprints.
 
-**Data Analyst Intern**  
-**XRG Consulting Pvt Ltd** | Feb 2022 – Jun 2022
-- Assisted in developing software features while working with SQL databases and REST APIs.
-- Retrieved, validated, and analyzed structured data using SQL and Microsoft Excel.
-- Performed data validation, cleansing, and report preparation for business requirements.
-- Collaborated with development and QA teams during testing, debugging, and issue resolution.
+### Data Analyst  
+**XRG Consulting Pvt. Ltd.** | Hyderabad, India | Jul 2022 - Sep 2022
+
+- Used SQL to query and validate 20K-50K+ application records for reports and issue investigation.
+- Reviewed production data and identified 10-15+ data anomalies or defects to help teams find root causes and fix issues.
+- Ran 3-5 testing cycles with QA and business teams to verify fixes and check report outputs.
+- Updated software components and documentation to improve handovers and defect tracking.
 
 ---
 
 ## 🛠 Skills
 
-### Programming
-- Python
-- SQL
-
-### Data Analytics
-- Power BI
-- Microsoft Excel
-- Pandas
-- NumPy
-- DAX
-- Power Query
-
-### Data Engineering
-- ETL
-- Data Validation
-- Data Cleansing
-- Data Transformation
-
-### Databases
-- SQL Server
-- PostgreSQL
-- Firebase Firestore
-
-### Tools
-- Git
-- GitHub
-- Jupyter Notebook
+**Languages & Tools:** SQL, Python, Pandas, NumPy, Microsoft Excel, Power Query, DAX  
+**Visualization:** Power BI, Tableau, Dashboard Development, KPI Reporting  
+**Data Analytics & Automation:** Data Cleaning, Data Validation, Data Transformation, Data Reconciliation, Reporting Automation  
+**Other:** PostgreSQL, SQL Server, Git, GitHub, Jupyter Notebook, FastAPI, REST APIs, Docker, Agile
 
 ---
 
 ## 📊 Projects
 
+### 🤖 [Automated Reporting & Data Quality Pipeline](https://github.com/parthakshay/excel-reporting-automation)
+**Python | SQL | Excel | Power BI**
+
+- Built a Python and SQL pipeline to ingest, clean, validate, and combine data from multiple Excel files.
+- Added validation checks and error logs to flag missing values, duplicates, and formatting issues before report generation.
+- Generated standardized Power BI reports to reduce manual spreadsheet work and improve reporting consistency.
+
+### 📈 [E-commerce / Retail Performance Analytics](https://github.com/parthakshay/sales-data-analysis-dashboard)
+**SQL | Python | Power BI | Tableau**
+
+- Analyzed sales, returns, customer, product, and regional data using SQL and Python.
+- Built an interactive dashboard to track revenue, profit margin, return rate, repeat purchases, and customer segments.
+- Highlighted product and regional performance gaps to help users prioritize pricing, inventory, and campaign actions.
+
 ### 📈 [Sales Data Analysis Dashboard](https://github.com/parthakshay/sales-data-analysis-dashboard)
 **Python | SQL | Power BI**
 
-- Cleaned and transformed sales data using Python (Pandas).
-- Performed SQL-based business analysis.
-- Built interactive Power BI dashboards with KPI reporting.
-
----
+- Cleaned and transformed retail sales data using Python and Pandas.
+- Wrote SQL queries to analyze regional sales, product performance, and business KPIs.
+- Built an interactive Power BI dashboard to track sales trends and compare performance across categories.
 
 ### 📊 [Supply Chain Analytics Dashboard](https://github.com/parthakshay/supply-chain-analytics-dashboard)
 **SQL | Power BI | Excel**
 
-- Analyzed inventory, orders, and supplier performance using SQL.
-- Created dashboards to track stock levels, order fulfillment, and delivery performance.
-- Generated KPI reports to support inventory and supply chain decisions.
-
----
+- Analyzed inventory, orders, suppliers, and delivery data using SQL.
+- Created dashboards to track stock levels, order fulfillment, delivery delays, and supplier performance.
+- Built KPI views to help users identify bottlenecks and prioritize follow-up actions.
 
 ### 🤖 [Automated Excel Reporting System](https://github.com/parthakshay/excel-reporting-automation)
-**Python | Pandas | Excel**
+**Python | Pandas | OpenPyXL**
 
-- Automated repetitive Excel reporting tasks.
-- Cleaned and merged multiple datasets.
-- Generated standardized reports using Python.
+- Built a Python workflow to clean, combine, validate, and format data from multiple Excel files.
+- Added checks for missing values, duplicates, and formatting issues before report generation.
+- Generated standardized reports to reduce repetitive spreadsheet work.
 
----
-
-### 📱 [Āroham – Educational Data Platform](https://play.google.com/store/apps/details?id=com.parth_akshay.aihca_ju&hl=en_IN)
+### 📱 [Aroham - Educational Data Platform](https://play.google.com/store/apps/details?id=com.parth_akshay.aihca_ju&hl=en_IN)
 
 [![Website](https://img.shields.io/badge/Website-aroham.in-blue?style=for-the-badge)](https://aroham.in)
 
-An educational platform that manages structured academic data.
+Built an educational platform to manage and organize academic content.
 
-- Integrated Google Sheets, Firebase, and REST APIs.
-- Automated content synchronization using Google Apps Script.
-- Designed structured data workflows for educational content.
-- Implemented search, filtering, and categorized data management.
+- Integrated Google Sheets, Firebase Firestore, and REST APIs.
+- Automated content synchronization with Google Apps Script.
+- Built search, filtering, and category-based content workflows.
 
 ---
 
@@ -116,12 +97,8 @@ An educational platform that manages structured academic data.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/parthakshaybarange/)
-- 🐙 [**GitHub**](https://github.com/parthakshay)
-- 📧 <a href="mailto:parth.barange@gmail.com">**Email**</a>
-
----
-
-> **"Without data, you're just another person with an opinion." – W. Edwards Deming**
+- 💼 [LinkedIn](https://www.linkedin.com/in/parthakshaybarange/)
+- 🐙 [GitHub](https://github.com/parthakshay)
+- 📧 [Email](mailto:parth.barange@gmail.com)
